@@ -18,11 +18,11 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 5. [Meal Time](Problem%20Set%201/meal.py) - splits user input to determine if it is mealtime
 
 ## Problem Set 2 - Loops
-1. camelCase - converts camelCase str to camel_case str
-2. Coke Machine - adds valid coin inputs to buy a 50 cent bottle of Coke
-3. Just setting up my twttr - removes vowels from user input string
-4. Vanity Plates - checks if desired vanity plate is valid given a variety of conditions
-5. Nutrition Facts - returns calorie content of a fruit from user input
+1. [camelCase](Problem%20Set%202/camel.py) - converts camelCase str to camel_case str
+2. [Coke Machine](Problem%20Set%202/coke.py) - adds valid coin inputs to buy a 50 cent bottle of Coke
+3. [Just setting up my twttr](Problem%20Set%202/twttr.py) - removes vowels from user input string
+4. [Vanity Plates](Problem%20Set%202/plates.py) - checks if desired vanity plate is valid given a variety of conditions
+5. [Nutrition Facts](Problem%20Set%202/nutrition.py) - returns calorie content of a fruit from user input
 
 ## Problem Set 3 - Exceptions
 1. Fuel Gauge - Determines % gas tank fullness, checks input for ValueError and ZeroDivisionError
