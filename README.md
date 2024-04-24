@@ -63,4 +63,4 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 3. CS50 Shirtificate - creates a PDF class. Includes a shirt image overlayed with "{name} took CS50"
 
 ## Problem Set 9 - Et Cetera
-1. Final Project
+1. [Final Project](Problem%20Set%209/Final%20Project)
