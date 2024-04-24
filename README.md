@@ -25,18 +25,18 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 5. [Nutrition Facts](Problem%20Set%202/nutrition.py) - returns calorie content of a fruit from user input
 
 ## Problem Set 3 - Exceptions
-1. Fuel Gauge - Determines % gas tank fullness, checks input for ValueError and ZeroDivisionError
-2. Felipe's Taqueria - Creates a running tally of a menu order, terminates on ctl+D, ignores invalid menu entries
-3. Grocery List - creates a grocery list from user input, terminates on ctl+D, catches any KeyErrors
-4. Outdates - converts MM/DD/YYYY and Month Day, Year to YYYY-MM-DD, continually asks for proper input
+1. [Fuel Gauge](Problem%20Set%203/fuel.py) - Determines % gas tank fullness, checks input for ValueError and ZeroDivisionError
+2. [Felipe's Taqueria](Problem%20Set%203/taqueria.py) - Creates a running tally of a menu order, terminates on ctl+D, ignores invalid menu entries
+3. [Grocery List](Problem%20Set%203/grocery.py) - creates a grocery list from user input, terminates on ctl+D, catches any KeyErrors
+4. [Outdated](Problem%20Set%203/outdated.py) - converts MM/DD/YYYY and Month Day, Year to YYYY-MM-DD, continually asks for proper input
 
 ## Problem Set 4 - Libraries
-1. Emojize - uses emoji library to return input as emoji
-2. Frank, Ian, and Glen's Letters - Renders text in figlet fonts chosen by user's command line arg
-3. Adieu, Adieu - uses inflect library to print a list of names as "name, name, ... and name"
-4. Guessing Game - uses random library to make a number guessing game
-5. Little Professor - generates addition problems of varying difficulty based on user input
-6. Bitcoin Price Index - uses requests and json libraries to pull BTC price from site
+1. [Emojize](Problem%20Set%204/emojize.py) - uses emoji library to return input as emoji
+2. [Frank, Ian, and Glen's Letters](Problem%20Set%204/figlet.py) - Renders text in figlet fonts chosen by user's command line arg
+3. [Adieu, Adieu](Problem%20Set%204/adieu.py) - uses inflect library to print a list of names as "name, name, ... and name"
+4. [Guessing Game](Problem%20Set%204/game.py) - uses random library to make a number guessing game
+5. [Little Professor](Problem%20Set%204/professor.py) - generates addition problems of varying difficulty based on user input
+6. [Bitcoin Price Index](Problem%20Set%204/bitcoin.py) - uses requests and json libraries to pull BTC price from site
 
 ## Problem Set 5 - Unit Tests
 1. Testing my twittr - Unit testing 'Just Setting up my twttr'
