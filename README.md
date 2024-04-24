@@ -4,11 +4,11 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 
 
 ## Problem Set 0 - Functions, Variables
-1. Indoor Voice - convert input to lowercase
-2. Playback Speed - replace ' ' with '...'
-3. Making Faces - replace :) and :( with emojis
-4. Einstein - calculates e = mc^2
-5. Tip Calculator - calculates a tip given % tip and total bill
+1. [Indoor Voice](indoor.py) - convert input to lowercase
+2. [Playback Speed](playback.py) - replace ' ' with '...'
+3. [Making Faces](faces.py) - replace :) and :( with emojis
+4. [Einstein](einstein.py) - calculates e = mc^2
+5. [Tip Calculator](tip.py) - calculates a tip given % tip and total bill
 
 ## Problem Set 1 - Conditionals
 1. Deep Thought - matches a response to certain user input
