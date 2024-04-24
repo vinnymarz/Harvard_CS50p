@@ -45,10 +45,10 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 4. [Refueling](Problem%20Set%205/test_fuel) - uses pytest to check for ZeroDivisionErrors and ValueErrors
 
 ## Problem Set 6 - File I/O
-1. Lines of Code - calculates lines of code in a python file, ignoring comments and blank lines
-2. Pizza Py - makes ascii art menu from a csv menu file
-3. Scourgify - accepts a csv with ["Lastname, Firstname", House] and outputs a csv with [Firstname, Lastname, House]
-4. CS50 P-Shirt - accepts an original image file and creates an output image file
+1. [Lines of Code](Problem%20Set%206/lines) - calculates lines of code in a python file, ignoring comments and blank lines
+2. [Pizza Py](Problem%20Set%206/pizza) - makes ascii art menu from a csv menu file
+3. [Scourgify](Problem%20Set%206/scourgify) - accepts a csv with ["Lastname, Firstname", House] and outputs a csv with [Firstname, Lastname, House]
+4. [CS50 T-Shirt](Problem%20Set%205/shirt) - accepts an original image file and creates an output image file
 
 ## Problem Set 7 - Regular Expressions
 1. Numb3rs - determines if user inputs a valid IPv4 address
