@@ -39,10 +39,10 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 6. [Bitcoin Price Index](Problem%20Set%204/bitcoin.py) - uses requests and json libraries to pull BTC price from site
 
 ## Problem Set 5 - Unit Tests
-1. Testing my twittr - Unit testing 'Just Setting up my twttr'
-2. Back to the Bank - Unit testing 'Home Federal Savings Bank'
-3. Re-requesting a vanity plate - Unit testing 'Vanity Plates'
-4. Refueling - uses pytest to check for ZeroDivisionErrors and ValueErrors
+1. [Testing my twittr](Problem%20Set%205/test_twttr) - Unit testing 'Just Setting up my twttr'
+2. [Back to the Bank](Problem%20Set%205/test_bank) - Unit testing 'Home Federal Savings Bank'
+3. [Re-requesting a vanity plate](Problem%20Set%205/test_plate) - Unit testing 'Vanity Plates'
+4. [Refueling](Problem%20Set%205/test_fuel) - uses pytest to check for ZeroDivisionErrors and ValueErrors
 
 ## Problem Set 6 - File I/O
 1. Lines of Code - calculates lines of code in a python file, ignoring comments and blank lines
