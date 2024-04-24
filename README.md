@@ -11,11 +11,11 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 5. [Tip Calculator](Problem%20Set%200/tip.py) - calculates a tip given % tip and total bill
 
 ## Problem Set 1 - Conditionals
-1. Deep Thought - matches a response to certain user input
-2. Home Federal Savings Bank - returns different answers depending on user input
-3. File Extensions - determines filetype of a user input
-4. Math Interpreter - solves a user input math equation
-5. Meal Time - splits user input to determine if it is mealtime
+1. [Deep Thought](Problem%20Set%201/deep.py) - matches a response to certain user input
+2. [Home Federal Savings Bank](Problem%20Set%201/bank.py) - returns different answers depending on user input
+3. [File Extensions](Problem%20Set%201/extensions.py) - determines filetype of a user input
+4. [Math Interpreter](Problem%20Set%201/interpreter.py) - solves a user input math equation
+5. [Meal Time](Problem%20Set%201/meal.py) - splits user input to determine if it is mealtime
 
 ## Problem Set 2 - Loops
 1. camelCase - converts camelCase str to camel_case str
