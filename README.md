@@ -1,4 +1,4 @@
-# Harvard CS50p
+# Harvard CS50P
 ### My solutions for Harvard's CS50P - Introduction to Programming with Python (2024)
 Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&webview=false&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fpython)
 
