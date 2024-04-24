@@ -57,7 +57,7 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 4. Regular, um, expressions - counts how many times "um" is said in an input.
 5. Response Validation - uses validator_collection library to check if an email is in a valid email address format
 
-##Problem Set 8 - Object-Oriented Programming
+## Problem Set 8 - Object-Oriented Programming
 1. Seasons of Love - calculates how many minutes have passed since a given date
 2. Cookie Jar - creates a cookie jar class with specified capacity and deposit/withdraw methods and properties for capacity and cookies currently in the jar
 3. CS50 Shirtificate - creates a PDF class. Includes a shirt image overlayed with "{name} took CS50"
