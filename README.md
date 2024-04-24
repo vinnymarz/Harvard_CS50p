@@ -4,7 +4,7 @@ Available on [edX](https://www.edx.org/learn/python/harvard-university-cs50-s-in
 
 
 ## Problem Set 0 - Functions, Variables
-1. [Indoor Voice](Problem%Set%0/einstein.py) - convert input to lowercase
+1. [Indoor Voice](Problem%20Set%200/einstein.py) - convert input to lowercase
 2. [Playback Speed](/playback.py) - replace ' ' with '...'
 3. [Making Faces](/faces.py) - replace :) and :( with emojis
 4. [Einstein](/einstein.py) - calculates e = mc^2
