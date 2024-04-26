@@ -51,16 +51,16 @@ Course available on [edX](https://www.edx.org/learn/python/harvard-university-cs
 4. [CS50 T-Shirt](Problem%20Set%206/shirt) - accepts an original image file and creates an output image file
 
 ## Problem Set 7 - Regular Expressions
-1. Numb3rs - determines if user inputs a valid IPv4 address
-2. Watch on Youtube - parses an embedded URL and returns a shareable URL
-3. Working 9 to 5 - accepts work hours in "9:00 AM to 5:00 PM" and "9 AM to 5 PM" format and converts to military time
-4. Regular, um, expressions - counts how many times "um" is said in an input.
-5. Response Validation - uses validator_collection library to check if an email is in a valid email address format
+1. [Numb3rs](Problem%20Set%207/numb3rs) - determines if user inputs a valid IPv4 address
+2. [Watch on Youtube](Problem%20Set%207/watch) - parses an embedded URL and returns a shareable URL
+3. [Working 9 to 5](Problem%20Set%207/working) - accepts work hours in "9:00 AM to 5:00 PM" and "9 AM to 5 PM" format and converts to military time
+4. [Regular, um, expressions](Problem%20Set%207/um) - counts how many times "um" is said in an input.
+5. [Response Validation](Problem%20Set%207/response) - uses validator_collection library to check if an email is in a valid email address format
 
 ## Problem Set 8 - Object-Oriented Programming
-1. Seasons of Love - calculates how many minutes have passed since a given date
-2. Cookie Jar - creates a cookie jar class with specified capacity and deposit/withdraw methods and properties for capacity and cookies currently in the jar
-3. CS50 Shirtificate - creates a PDF class. Includes a shirt image overlayed with "{name} took CS50"
+1. [Seasons of Love](Problem%20Set%208/seasons) - calculates how many minutes have passed since a given date
+2. [Cookie Jar](Problem%20Set%208/jar) - creates a cookie jar class with specified capacity and deposit/withdraw methods and properties for capacity and cookies currently in the jar
+3. [CS50 Shirtificate](Problem%20Set%208/shirtificate) - creates a PDF class. Includes a shirt image overlayed with "{name} took CS50"
 
 ## Problem Set 9 - Et Cetera
 1. [Final Project](Problem%20Set%209/Final%20Project)
